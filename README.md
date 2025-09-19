@@ -24,7 +24,7 @@ Here are some of the projects I'm proud of. They showcase my skills in data anal
 |---|---|---|
 | **Customer Segmentation @ Divar** | In a team, I analyzed a dataset of over **1 million records** from Iran's largest classifieds platform. We applied clustering algorithms to identify distinct user segments, providing valuable insights for targeted marketing. | `Python`, `Scikit-learn`, `Pandas`, `Numpy`, `Matplotlib` |
 | **Enterprise AI Chatbot** | As part of my professional role, I developed and deployed an intelligent chatbot to automate customer support. The system understands user intent and provides real-time, relevant responses, significantly improving user engagement. | `Python`, `Flask`, `openai`,`chromadb` ,`pytesseract`, `dotenv`, `SQL`, `iis` |
-| **NLP for [e.g., Text Classification]**| Developed a model to [describe the goal, e.g., 'classify user comments based on sentiment']. This project honed my skills in text preprocessing, feature extraction, and building NLP pipelines. | `Python`, `Hugging Face`, `NLTK` |
+| **NLP for [e.g., Text Classification]**| Developed a model to classify user comments based on sentiment. This project honed my skills in text preprocessing, feature extraction, and building NLP pipelines. | `Python`, `Hugging Face`, `fasttext` |
 | **Credit Scoring Model** | *(Work in Progress)* Currently developing a machine learning model to assess credit risk for loan applicants. This involves intensive feature engineering, model selection, and ensuring fairness and interpretability. | `Python`, `Scikit-learn`, `SQL`, `Flask`, `Pandas`, `Numpy`, `Matplotlib` |
 
 ---

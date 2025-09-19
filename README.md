@@ -46,13 +46,3 @@ These are the primary tools and technologies I work with:
 **Deployment & DevOps:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=windows-server&logoColor=white)
-
----
-
-### 📊 My GitHub Stats
-
-![[Your-GitHub-Username]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=radical)](https://github.com/[your-github-username])
-
----
